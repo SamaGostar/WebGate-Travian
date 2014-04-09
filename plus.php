@@ -13,7 +13,7 @@ else {
 }
 include "Templates/html.tpl";
 // Set Your Setting This Part
-$MerchantID = '22810e02-19e4-416a-a9e4-611d5ee8a9cb';
+$MerchantID = 'xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx';
 
 
 $Prices=array(
